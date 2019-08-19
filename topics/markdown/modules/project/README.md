@@ -3,7 +3,7 @@
 <details>
   <summary>"Click to expand"</summary>
   <ol>
-    <li> Install **Python 3** using this link https://www.python.org/downloads/ </li>
+    <li> Install _Python 3_ using this link https://www.python.org/downloads/ </li>
     <li> Install **pip3** - **sudo apt install python-pip** </li>
     <li> Pip install **virtualenv** with **pip3 install virtualenv** </li> 
     <li>Create their virtual environment - virtualenv venv </li>
