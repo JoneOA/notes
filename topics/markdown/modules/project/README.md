@@ -3,12 +3,12 @@
 <details>
   <summary>"Click to expand"</summary>
   <ol>
-    <li> Install **Python 3** using this link https://www.python.org/downloads/ </li>
-    <li> Install **pip3** - **sudo apt install python-pip** </li>
-    <li> Pip install **virtualenv** with **pip3 install virtualenv** </li> 
-    <li>Create their virtual environment - virtualenv venv </li>
-    <li>And make sure they are working inside of it - source venv/bin/activate</li> 
-    <li>Install the pip dependencies file, using pip3 install -r pip_dependencies.txt</li>
-    <li>Run the python program - python3 pass_gen.py</li>
+    <li> Install <b>Python 3</b> using this link https://www.python.org/downloads/ </li>
+    <li> Install <b>pip3</b> - <b>sudo apt install python-pip</b> </li>
+    <li> Pip install <b>virtualenv</b> with <b>pip3 install virtualenv</b> </li> 
+    <li>Create their virtual environment - <b>virtualenv venv</b> </li>
+    <li>And make sure they are working inside of it - <b>source venv/bin/activate</b></li> 
+    <li>Install the pip dependencies file, using pip3 install <b>-r pip_dependencies.txt</b></li>
+    <li>Run the python program - <b>python3 pass_gen.py</b></li>
   <ol>
 </details>
