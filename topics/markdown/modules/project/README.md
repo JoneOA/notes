@@ -1,3 +1,3 @@
-# Project for Markdown Task
+#How to run this simple python application!
 
-Edit this file for the Task found in Markdown - Advanced
+1. Install **Python 3** using this link https://www.python.org/downloads/
